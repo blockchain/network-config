@@ -22,6 +22,9 @@
           "nativeAsset": {
             "type": "string"
           },
+          "networkTicker": {
+            "type": "string"
+          },
           "nodeUrls": {
             "items": {
               "type": "string"
