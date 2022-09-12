@@ -146,7 +146,7 @@
         {
           "coinType": 0,
           "descriptor": 1,
-          "purpose": 88
+          "purpose": 84
         }
       ],
       "style": "EXTENDED",
