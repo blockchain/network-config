@@ -1,0 +1,161 @@
+{
+  "networks": [
+    {
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {
+        "chainId": 1
+      },
+      "memos": false,
+      "name": "Ethereum",
+      "nativeAsset": "ETH",
+      "nodeUrls": [
+        "node1",
+        "node2"
+      ],
+      "type": "EVM"
+    },
+    {
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {
+        "chainId": 137
+      },
+      "memos": false,
+      "name": "Polygon",
+      "nativeAsset": "MATIC",
+      "nodeUrls": [
+        "node1",
+        "node2"
+      ],
+      "type": "EVM"
+    },
+    {
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {
+        "chainId": 56
+      },
+      "memos": false,
+      "name": "Binance Smart Chain",
+      "nativeAsset": "BNB",
+      "nodeUrls": [
+        "node1",
+        "node2"
+      ],
+      "type": "EVM"
+    },
+    {
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {
+        "chainId": 43114
+      },
+      "memos": false,
+      "name": "Avalanche",
+      "nativeAsset": "AVAX",
+      "nodeUrls": [
+        "node1",
+        "node2"
+      ],
+      "type": "EVM"
+    },
+    {
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {},
+      "memos": false,
+      "name": "Bitcoin",
+      "nativeAsset": "BTC",
+      "nodeUrls": [
+        "node1",
+        "node2"
+      ],
+      "type": "BTC"
+    },
+    {
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {},
+      "memos": true,
+      "name": "Stellar",
+      "nativeAsset": "XLM",
+      "nodeUrls": [
+        "node1",
+        "node2"
+      ],
+      "type": "XLM"
+    },
+    {
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {},
+      "memos": true,
+      "name": "Solana",
+      "nativeAsset": "SOL",
+      "nodeUrls": [
+        "node1",
+        "node2"
+      ],
+      "type": "SOL"
+    }
+  ],
+  "types": [
+    {
+      "derivations": [
+        {
+          "coinType": 60,
+          "descriptor": 0,
+          "purpose": 44
+        }
+      ],
+      "style": "SINGLE",
+      "type": "EVM"
+    },
+    {
+      "derivations": [
+        {
+          "coinType": 501,
+          "descriptor": 0,
+          "purpose": 44
+        }
+      ],
+      "style": "SINGLE",
+      "type": "SOL"
+    },
+    {
+      "derivations": [
+        {
+          "coinType": 0,
+          "descriptor": 0,
+          "purpose": 44
+        },
+        {
+          "coinType": 0,
+          "descriptor": 1,
+          "purpose": 49
+        }
+      ],
+      "style": "EXTENDED",
+      "type": "BTC"
+    },
+    {
+      "derivations": [
+        {
+          "coinType": 148,
+          "descriptor": 0,
+          "purpose": 44
+        }
+      ],
+      "style": "SINGLE",
+      "type": "XLM"
+    }
+  ]
+}
