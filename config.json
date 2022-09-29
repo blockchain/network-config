@@ -1,6 +1,7 @@
 {
   "networks": [
     {
+      "explorerUrl": "https://www.blockchain.com/eth/tx",
       "feeCurrencies": [
         "native"
       ],
@@ -18,6 +19,7 @@
       "type": "EVM"
     },
     {
+      "explorerUrl": "https://polygonscan.com/tx",
       "feeCurrencies": [
         "native"
       ],
@@ -35,6 +37,7 @@
       "type": "EVM"
     },
     {
+      "explorerUrl": "https://bscscan.com/tx",
       "feeCurrencies": [
         "native"
       ],
@@ -52,6 +55,7 @@
       "type": "EVM"
     },
     {
+      "explorerUrl": "https://snowtrace.io/tx",
       "feeCurrencies": [
         "native"
       ],
@@ -69,6 +73,7 @@
       "type": "EVM"
     },
     {
+      "explorerUrl": "https://www.blockchain.com/btc/tx",
       "feeCurrencies": [
         "native"
       ],
@@ -83,6 +88,7 @@
       "type": "BTC"
     },
     {
+      "explorerUrl": "https://stellarchain.io/transactions",
       "feeCurrencies": [
         "native"
       ],
@@ -98,6 +104,7 @@
       "type": "XLM"
     },
     {
+      "explorerUrl": "hhttps://explorer.solana.com/tx",
       "feeCurrencies": [
         "native"
       ],
