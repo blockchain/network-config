@@ -4,6 +4,9 @@
     "networks": {
       "items": {
         "properties": {
+          "explorerUrl": {
+            "type": "string"
+          },
           "feeCurrencies": {
             "items": {
               "type": "string"
@@ -42,7 +45,8 @@
           "nativeAsset",
           "nodeUrls",
           "name",
-          "type"
+          "type",
+          "explorerUrl"
         ],
         "type": "object"
       },
