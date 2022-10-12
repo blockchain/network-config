@@ -1,6 +1,7 @@
 {
   "networks": [
     {
+      "coinApi": "EVM",
       "explorerUrl": "https://www.blockchain.com/eth/tx",
       "feeCurrencies": [
         "native"
@@ -19,6 +20,7 @@
       "type": "EVM"
     },
     {
+      "coinApi": "EVM",
       "explorerUrl": "https://polygonscan.com/tx",
       "feeCurrencies": [
         "native"
@@ -37,6 +39,7 @@
       "type": "EVM"
     },
     {
+      "coinApi": "EVM",
       "explorerUrl": "https://bscscan.com/tx",
       "feeCurrencies": [
         "native"
@@ -55,6 +58,7 @@
       "type": "EVM"
     },
     {
+      "coinApi": "EVM",
       "explorerUrl": "https://snowtrace.io/tx",
       "feeCurrencies": [
         "native"
@@ -73,6 +77,7 @@
       "type": "EVM"
     },
     {
+      "coinApi": "BTC",
       "explorerUrl": "https://www.blockchain.com/btc/tx",
       "feeCurrencies": [
         "native"
@@ -89,6 +94,7 @@
       "type": "BTC"
     },
     {
+      "coinApi": "BTC",
       "explorerUrl": "https://www.blockchain.com/bch/tx",
       "feeCurrencies": [
         "native"
@@ -102,9 +108,10 @@
         "node1",
         "node2"
       ],
-      "type": "BTC"
+      "type": "BCH"
     },
     {
+      "coinApi": "XLM",
       "explorerUrl": "https://stellarchain.io/transactions",
       "feeCurrencies": [
         "native"
@@ -121,6 +128,7 @@
       "type": "XLM"
     },
     {
+      "coinApi": "SOL",
       "explorerUrl": "https://explorer.solana.com/tx",
       "feeCurrencies": [
         "native"
@@ -137,6 +145,7 @@
       "type": "SOL"
     },
     {
+      "coinApi": "STX",
       "explorerUrl": "https://explorer.stacks.co/txid",
       "feeCurrencies": [
         "native"
@@ -202,6 +211,22 @@
       ],
       "style": "EXTENDED",
       "type": "BTC"
+    },
+    {
+      "derivations": [
+        {
+          "coinType": 0,
+          "descriptor": 0,
+          "purpose": 44
+        },
+        {
+          "coinType": 0,
+          "descriptor": 1,
+          "purpose": 84
+        }
+      ],
+      "style": "EXTENDED",
+      "type": "BCH"
     },
     {
       "derivations": [
