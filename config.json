@@ -81,6 +81,7 @@
       "memos": false,
       "name": "Bitcoin",
       "nativeAsset": "BTC",
+      "networkTicker": "BTC",
       "nodeUrls": [
         "node1",
         "node2"
@@ -104,7 +105,7 @@
       "type": "XLM"
     },
     {
-      "explorerUrl": "hhttps://explorer.solana.com/tx",
+      "explorerUrl": "https://explorer.solana.com/tx",
       "feeCurrencies": [
         "native"
       ],
@@ -118,6 +119,22 @@
         "node2"
       ],
       "type": "SOL"
+    },
+    {
+      "explorerUrl": "https://explorer.stacks.co/txid",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {},
+      "memos": false,
+      "name": "Stacks",
+      "nativeAsset": "STX",
+      "networkTicker": "STX",
+      "nodeUrls": [
+        "node1",
+        "node2"
+      ],
+      "type": "STX"
     }
   ],
   "types": [
@@ -142,6 +159,17 @@
       ],
       "style": "SINGLE",
       "type": "SOL"
+    },
+    {
+      "derivations": [
+        {
+          "coinType": 5757,
+          "descriptor": 0,
+          "purpose": 44
+        }
+      ],
+      "style": "SINGLE",
+      "type": "STX"
     },
     {
       "derivations": [
