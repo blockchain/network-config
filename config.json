@@ -89,6 +89,22 @@
       "type": "BTC"
     },
     {
+      "explorerUrl": "https://www.blockchain.com/bch/tx",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {},
+      "memos": false,
+      "name": "Bitcoin Cash",
+      "nativeAsset": "BCH",
+      "networkTicker": "BCH",
+      "nodeUrls": [
+        "node1",
+        "node2"
+      ],
+      "type": "BTC"
+    },
+    {
       "explorerUrl": "https://stellarchain.io/transactions",
       "feeCurrencies": [
         "native"
