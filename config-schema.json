@@ -4,6 +4,9 @@
     "networks": {
       "items": {
         "properties": {
+          "coinApi": {
+            "type": "string"
+          },
           "explorerUrl": {
             "type": "string"
           },
@@ -39,14 +42,16 @@
           }
         },
         "required": [
+          "coinApi",
+          "explorerUrl",
           "feeCurrencies",
           "identifiers",
           "memos",
-          "nativeAsset",
-          "nodeUrls",
           "name",
-          "type",
-          "explorerUrl"
+          "nativeAsset",
+          "networkTicker",
+          "nodeUrls",
+          "type"
         ],
         "type": "object"
       },

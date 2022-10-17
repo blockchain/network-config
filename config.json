@@ -1,6 +1,7 @@
 {
   "networks": [
     {
+      "coinApi": "evm",
       "explorerUrl": "https://www.blockchain.com/eth/tx",
       "feeCurrencies": [
         "native"
@@ -19,6 +20,7 @@
       "type": "EVM"
     },
     {
+      "coinApi": "evm",
       "explorerUrl": "https://polygonscan.com/tx",
       "feeCurrencies": [
         "native"
@@ -37,6 +39,7 @@
       "type": "EVM"
     },
     {
+      "coinApi": "evm",
       "explorerUrl": "https://bscscan.com/tx",
       "feeCurrencies": [
         "native"
@@ -55,6 +58,7 @@
       "type": "EVM"
     },
     {
+      "coinApi": "evm",
       "explorerUrl": "https://snowtrace.io/tx",
       "feeCurrencies": [
         "native"
@@ -73,6 +77,7 @@
       "type": "EVM"
     },
     {
+      "coinApi": "btc",
       "explorerUrl": "https://www.blockchain.com/btc/tx",
       "feeCurrencies": [
         "native"
@@ -81,6 +86,7 @@
       "memos": false,
       "name": "Bitcoin",
       "nativeAsset": "BTC",
+      "networkTicker": "BTC",
       "nodeUrls": [
         "node1",
         "node2"
@@ -88,6 +94,24 @@
       "type": "BTC"
     },
     {
+      "coinApi": "btc",
+      "explorerUrl": "https://www.blockchain.com/bch/tx",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {},
+      "memos": false,
+      "name": "Bitcoin Cash",
+      "nativeAsset": "BCH",
+      "networkTicker": "BCH",
+      "nodeUrls": [
+        "node1",
+        "node2"
+      ],
+      "type": "BCH"
+    },
+    {
+      "coinApi": "xlm",
       "explorerUrl": "https://stellarchain.io/transactions",
       "feeCurrencies": [
         "native"
@@ -104,7 +128,8 @@
       "type": "XLM"
     },
     {
-      "explorerUrl": "hhttps://explorer.solana.com/tx",
+      "coinApi": "sol",
+      "explorerUrl": "https://explorer.solana.com/tx",
       "feeCurrencies": [
         "native"
       ],
@@ -118,6 +143,23 @@
         "node2"
       ],
       "type": "SOL"
+    },
+    {
+      "coinApi": "stx",
+      "explorerUrl": "https://explorer.stacks.co/txid",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {},
+      "memos": false,
+      "name": "Stacks",
+      "nativeAsset": "STX",
+      "networkTicker": "STX",
+      "nodeUrls": [
+        "node1",
+        "node2"
+      ],
+      "type": "STX"
     }
   ],
   "types": [
@@ -146,6 +188,17 @@
     {
       "derivations": [
         {
+          "coinType": 5757,
+          "descriptor": 0,
+          "purpose": 44
+        }
+      ],
+      "style": "SINGLE",
+      "type": "STX"
+    },
+    {
+      "derivations": [
+        {
           "coinType": 0,
           "descriptor": 0,
           "purpose": 44
@@ -158,6 +211,22 @@
       ],
       "style": "EXTENDED",
       "type": "BTC"
+    },
+    {
+      "derivations": [
+        {
+          "coinType": 0,
+          "descriptor": 0,
+          "purpose": 44
+        },
+        {
+          "coinType": 145,
+          "descriptor": 1,
+          "purpose": 44
+        }
+      ],
+      "style": "EXTENDED",
+      "type": "BCH"
     },
     {
       "derivations": [
