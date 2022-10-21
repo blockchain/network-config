@@ -14,8 +14,7 @@
       "nativeAsset": "ETH",
       "networkTicker": "ETH",
       "nodeUrls": [
-        "node1",
-        "node2"
+        "https://api.blockchain.info/eth/nodes/rpc"
       ],
       "type": "EVM"
     },
@@ -33,8 +32,7 @@
       "nativeAsset": "MATIC.MATIC",
       "networkTicker": "MATIC",
       "nodeUrls": [
-        "node1",
-        "node2"
+        "https://api.blockchain.info/matic-bor/nodes/rpc"
       ],
       "type": "EVM"
     },
@@ -52,8 +50,7 @@
       "nativeAsset": "BNB",
       "networkTicker": "BNB",
       "nodeUrls": [
-        "node1",
-        "node2"
+        "https://api.blockchain.info/bnb/nodes/rpc"
       ],
       "type": "EVM"
     },
@@ -71,8 +68,7 @@
       "nativeAsset": "AVAX",
       "networkTicker": "AVAX",
       "nodeUrls": [
-        "node1",
-        "node2"
+        "https://api.blockchain.info/avax/nodes/rpc/ext/bc/C/rpc"
       ],
       "type": "EVM"
     },
@@ -87,10 +83,7 @@
       "name": "Bitcoin",
       "nativeAsset": "BTC",
       "networkTicker": "BTC",
-      "nodeUrls": [
-        "node1",
-        "node2"
-      ],
+      "nodeUrls": [],
       "type": "BTC"
     },
     {
@@ -104,10 +97,7 @@
       "name": "Bitcoin Cash",
       "nativeAsset": "BCH",
       "networkTicker": "BCH",
-      "nodeUrls": [
-        "node1",
-        "node2"
-      ],
+      "nodeUrls": [],
       "type": "BCH"
     },
     {
@@ -122,8 +112,7 @@
       "nativeAsset": "XLM",
       "networkTicker": "XLM",
       "nodeUrls": [
-        "node1",
-        "node2"
+        "https://api.blockchain.info/stellar"
       ],
       "type": "XLM"
     },
@@ -139,8 +128,7 @@
       "nativeAsset": "SOL",
       "networkTicker": "SOL",
       "nodeUrls": [
-        "node1",
-        "node2"
+        "https://ssc-dao.genesysgo.net/"
       ],
       "type": "SOL"
     },
@@ -155,10 +143,7 @@
       "name": "Stacks",
       "nativeAsset": "STX",
       "networkTicker": "STX",
-      "nodeUrls": [
-        "node1",
-        "node2"
-      ],
+      "nodeUrls": [],
       "type": "STX"
     }
   ],
