@@ -139,7 +139,7 @@
         "native"
       ],
       "identifiers": {},
-      "memos": false,
+      "memos": true,
       "name": "Stacks",
       "nativeAsset": "STX",
       "networkTicker": "STX",
