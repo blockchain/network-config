@@ -37,6 +37,9 @@
             },
             "type": "array"
           },
+          "shortName": {
+            "type": "string"
+          },
           "type": {
             "type": "string"
           }
@@ -51,6 +54,7 @@
           "nativeAsset",
           "networkTicker",
           "nodeUrls",
+          "shortName",
           "type"
         ],
         "type": "object"

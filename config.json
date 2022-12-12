@@ -16,6 +16,7 @@
       "nodeUrls": [
         "https://api.blockchain.info/eth/nodes/rpc"
       ],
+      "shortName": "Ethereum",
       "type": "EVM"
     },
     {
@@ -28,12 +29,13 @@
         "chainId": 137
       },
       "memos": false,
-      "name": "Polygon",
+      "name": "Polygon PoS",
       "nativeAsset": "MATIC.MATIC",
       "networkTicker": "MATIC",
       "nodeUrls": [
         "https://api.blockchain.info/matic-bor/nodes/rpc"
       ],
+      "shortName": "Polygon",
       "type": "EVM"
     },
     {
@@ -46,12 +48,13 @@
         "chainId": 56
       },
       "memos": false,
-      "name": "Binance Smart Chain",
+      "name": "BNB Smart Chain",
       "nativeAsset": "BNB",
       "networkTicker": "BNB",
       "nodeUrls": [
         "https://api.blockchain.info/bnb/nodes/rpc"
       ],
+      "shortName": "BSC",
       "type": "EVM"
     },
     {
@@ -64,12 +67,13 @@
         "chainId": 43114
       },
       "memos": false,
-      "name": "Avalanche",
+      "name": "Avalanche C-Chain",
       "nativeAsset": "AVAX",
       "networkTicker": "AVAX",
       "nodeUrls": [
         "https://api.blockchain.info/avax/nodes/rpc/ext/bc/C/rpc"
       ],
+      "shortName": "Avalanche",
       "type": "EVM"
     },
     {
@@ -84,6 +88,7 @@
       "nativeAsset": "BTC",
       "networkTicker": "BTC",
       "nodeUrls": [],
+      "shortName": "Bitcoin",
       "type": "BTC"
     },
     {
@@ -98,6 +103,7 @@
       "nativeAsset": "BCH",
       "networkTicker": "BCH",
       "nodeUrls": [],
+      "shortName": "Bitcoin Cash",
       "type": "BCH"
     },
     {
@@ -114,6 +120,7 @@
       "nodeUrls": [
         "https://api.blockchain.info/stellar"
       ],
+      "shortName": "Stellar",
       "type": "XLM"
     },
     {
@@ -130,6 +137,7 @@
       "nodeUrls": [
         "https://ssc-dao.genesysgo.net/"
       ],
+      "shortName": "Solana",
       "type": "SOL"
     },
     {
@@ -144,6 +152,7 @@
       "nativeAsset": "STX",
       "networkTicker": "STX",
       "nodeUrls": [],
+      "shortName": "Stacks",
       "type": "STX"
     }
   ],
