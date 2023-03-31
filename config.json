@@ -165,7 +165,7 @@
         "chainId": 42161
       },
       "memos": false,
-      "name": "Ethereum on Arbitrum",
+      "name": "Arbitrum One",
       "nativeAsset": "ARBETH",
       "networkTicker": "ARBETH",
       "nodeUrls": [],
