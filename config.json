@@ -168,7 +168,9 @@
       "name": "Arbitrum One",
       "nativeAsset": "ARBETH",
       "networkTicker": "ARBETH",
-      "nodeUrls": [],
+      "nodeUrls": [
+        "https://api.blockchain.info/arbeth/nodes/rpc"
+      ],
       "shortName": "Arbitrum",
       "type": "EVM"
     }    
