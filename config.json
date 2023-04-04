@@ -154,26 +154,7 @@
       "nodeUrls": [],
       "shortName": "Stacks",
       "type": "STX"
-    },
-    {
-      "coinApi": "evm",
-      "explorerUrl": "https://arbiscan.io/tx",
-      "feeCurrencies": [
-        "native"
-      ],
-      "identifiers": {
-        "chainId": 42161
-      },
-      "memos": false,
-      "name": "Arbitrum One",
-      "nativeAsset": "ARBETH",
-      "networkTicker": "ARBETH",
-      "nodeUrls": [
-        "https://api.blockchain.info/arbeth/nodes/rpc"
-      ],
-      "shortName": "Arbitrum",
-      "type": "EVM"
-    }    
+    }   
   ],
   "types": [
     {
