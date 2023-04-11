@@ -12,5 +12,5 @@ repos:
     rev: 0.18.2
     hooks:
       - id: check-jsonschema
-        files: "config.json"
+        files: ^config.*\.json$
         args: ["--schemafile", "config-schema.json"]
