@@ -139,21 +139,6 @@
       ],
       "shortName": "Solana",
       "type": "SOL"
-    },
-    {
-      "coinApi": "stx",
-      "explorerUrl": "https://explorer.stacks.co/txid",
-      "feeCurrencies": [
-        "native"
-      ],
-      "identifiers": {},
-      "memos": true,
-      "name": "Stacks",
-      "nativeAsset": "STX",
-      "networkTicker": "STX",
-      "nodeUrls": [],
-      "shortName": "Stacks",
-      "type": "STX"
     }
   ],
   "types": [
