@@ -40,6 +40,12 @@
           "shortName": {
             "type": "string"
           },
+          "supportedBy": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
           "type": {
             "type": "string"
           }
@@ -55,7 +61,8 @@
           "networkTicker",
           "nodeUrls",
           "shortName",
-          "type"
+          "type",
+          "supportedBy"
         ],
         "type": "object"
       },
