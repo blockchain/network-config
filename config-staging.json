@@ -18,9 +18,8 @@
       ],
       "shortName": "Ethereum",
       "supportedBy": [
-        "DEFI",
-        "NATIVE",
-        "TRADING"
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -42,7 +41,8 @@
       ],
       "shortName": "Polygon",
       "supportedBy": [
-        "DEFI"
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -100,9 +100,7 @@
       "nodeUrls": [],
       "shortName": "Bitcoin",
       "supportedBy": [
-        "DEFI",
-        "NATIVE",
-        "TRADING"
+        "DSC_DATA"
       ],
       "type": "BTC"
     },
@@ -120,9 +118,7 @@
       "nodeUrls": [],
       "shortName": "Bitcoin Cash",
       "supportedBy": [
-        "DEFI",
-        "NATIVE",
-        "TRADING"
+        "DSC_DATA"
       ],
       "type": "BCH"
     },
@@ -142,8 +138,8 @@
       ],
       "shortName": "Stellar",
       "supportedBy": [
-        "DEFI",
-        "TRADING"
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
       ],
       "type": "XLM"
     },
@@ -163,8 +159,8 @@
       ],
       "shortName": "Solana",
       "supportedBy": [
-        "DEFI",
-        "TRADING"
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
       ],
       "type": "SOL"
     },
@@ -182,8 +178,8 @@
       "nodeUrls": [],
       "shortName": "Stacks",
       "supportedBy": [
-        "DEFI",
-        "TRADING"
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
       ],
       "type": "STX"
     }
