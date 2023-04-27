@@ -17,10 +17,6 @@
         "https://api.blockchain.info/eth/nodes/rpc"
       ],
       "shortName": "Ethereum",
-      "supportedBy": [
-        "DSC_DATA",
-        "DSC_TRANSACTIONS"
-      ],
       "type": "EVM"
     },
     {
@@ -40,10 +36,6 @@
         "https://api.blockchain.info/matic-bor/nodes/rpc"
       ],
       "shortName": "Polygon",
-      "supportedBy": [
-        "DSC_DATA",
-        "DSC_TRANSACTIONS"
-      ],
       "type": "EVM"
     },
     {
@@ -63,7 +55,6 @@
         "https://api.blockchain.info/bnb/nodes/rpc"
       ],
       "shortName": "BSC",
-      "supportedBy": [],
       "type": "EVM"
     },
     {
@@ -83,7 +74,6 @@
         "https://api.blockchain.info/avax/nodes/rpc/ext/bc/C/rpc"
       ],
       "shortName": "Avalanche",
-      "supportedBy": [],
       "type": "EVM"
     },
     {
@@ -99,9 +89,6 @@
       "networkTicker": "BTC",
       "nodeUrls": [],
       "shortName": "Bitcoin",
-      "supportedBy": [
-        "DSC_DATA"
-      ],
       "type": "BTC"
     },
     {
@@ -117,9 +104,6 @@
       "networkTicker": "BCH",
       "nodeUrls": [],
       "shortName": "Bitcoin Cash",
-      "supportedBy": [
-        "DSC_DATA"
-      ],
       "type": "BCH"
     },
     {
@@ -137,10 +121,6 @@
         "https://api.blockchain.info/stellar"
       ],
       "shortName": "Stellar",
-      "supportedBy": [
-        "DSC_DATA",
-        "DSC_TRANSACTIONS"
-      ],
       "type": "XLM"
     },
     {
@@ -158,10 +138,6 @@
         "https://ssc-dao.genesysgo.net/"
       ],
       "shortName": "Solana",
-      "supportedBy": [
-        "DSC_DATA",
-        "DSC_TRANSACTIONS"
-      ],
       "type": "SOL"
     },
     {
@@ -177,10 +153,6 @@
       "networkTicker": "STX",
       "nodeUrls": [],
       "shortName": "Stacks",
-      "supportedBy": [
-        "DSC_DATA",
-        "DSC_TRANSACTIONS"
-      ],
       "type": "STX"
     }
   ],
