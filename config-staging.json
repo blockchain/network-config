@@ -63,7 +63,10 @@
         "https://api.blockchain.info/bnb/nodes/rpc"
       ],
       "shortName": "BSC",
-      "supportedBy": [],
+      "supportedBy": [
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
+      ],
       "type": "EVM"
     },
     {
