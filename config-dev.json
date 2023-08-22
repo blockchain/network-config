@@ -56,13 +56,13 @@
         "chainId": 56
       },
       "memos": false,
-      "name": "BNB Smart Chain",
+      "name": "BNB Chain",
       "nativeAsset": "BNB",
       "networkTicker": "BNB",
       "nodeUrls": [
         "https://api.dev.blockchain.info/bnb/nodes/rpc"
       ],
-      "shortName": "BSC",
+      "shortName": "BNB",
       "supportedBy": [],
       "type": "EVM"
     },
