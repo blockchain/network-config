@@ -60,7 +60,7 @@
       "nativeAsset": "BNB",
       "networkTicker": "BNB",
       "nodeUrls": [
-        "https://api.blockchain.info/bnb/nodes/rpc"
+        "https://api.dev.blockchain.info/bnb/nodes/rpc"
       ],
       "shortName": "BSC",
       "supportedBy": [],
