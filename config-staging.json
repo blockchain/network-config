@@ -90,6 +90,46 @@
       "type": "EVM"
     },
     {
+      "coinApi": "evm",
+      "explorerUrl": "https://arbiscan.io/tx",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {
+        "chainId": 42161
+      },
+      "memos": false,
+      "name": "Arbitrum",
+      "nativeAsset": "ARB",
+      "networkTicker": "ARB",
+      "nodeUrls": [
+        "https://api.blockchain.info/arb/nodes/rpc"
+      ],
+      "shortName": "Arbitrum",
+      "supportedBy": [],
+      "type": "EVM"
+    },
+    {
+      "coinApi": "evm",
+      "explorerUrl": "https://optimistic.etherscan.io/tx",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {
+        "chainId": 10
+      },
+      "memos": false,
+      "name": "Optimism",
+      "nativeAsset": "OP",
+      "networkTicker": "OP",
+      "nodeUrls": [
+        "https://api.blockchain.info/op/nodes/rpc"
+      ],
+      "shortName": "Optimism",
+      "supportedBy": [],
+      "type": "EVM"
+    },
+    {
       "coinApi": "btc",
       "explorerUrl": "https://www.blockchain.com/btc/tx",
       "feeCurrencies": [
