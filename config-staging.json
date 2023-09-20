@@ -100,7 +100,7 @@
       },
       "memos": false,
       "name": "Arbitrum",
-      "nativeAsset": "ETH.ARB",
+      "nativeAsset": "ARBETH",
       "networkTicker": "ARBETH",
       "nodeUrls": [
         "https://api.blockchain.info/arb/nodes/rpc"
