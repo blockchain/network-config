@@ -120,8 +120,8 @@
       },
       "memos": false,
       "name": "Optimism",
-      "nativeAsset": "ETH.OP",
-      "networkTicker": "OP",
+      "nativeAsset": "OETH",
+      "networkTicker": "OETH",
       "nodeUrls": [
         "https://api.blockchain.info/op/nodes/rpc"
       ],
