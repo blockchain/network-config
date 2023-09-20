@@ -100,8 +100,8 @@
       },
       "memos": false,
       "name": "Arbitrum",
-      "nativeAsset": "ARB",
-      "networkTicker": "ARB",
+      "nativeAsset": "ETH.ARB",
+      "networkTicker": "ARBETH",
       "nodeUrls": [
         "https://api.blockchain.info/arb/nodes/rpc"
       ],
@@ -120,7 +120,7 @@
       },
       "memos": false,
       "name": "Optimism",
-      "nativeAsset": "OP",
+      "nativeAsset": "ETH.OP",
       "networkTicker": "OP",
       "nodeUrls": [
         "https://api.blockchain.info/op/nodes/rpc"
