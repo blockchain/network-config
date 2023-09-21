@@ -37,7 +37,7 @@
       "nativeAsset": "MATIC.MATIC",
       "networkTicker": "MATIC",
       "nodeUrls": [
-        "https://api.blockchain.info/matic-bor/nodes/rpc"
+        "https://api.dev.blockchain.info/enodes/rpc/matic"
       ],
       "shortName": "Polygon",
       "supportedBy": [
@@ -83,6 +83,46 @@
         "https://api.blockchain.info/avax/nodes/rpc/ext/bc/C/rpc"
       ],
       "shortName": "Avalanche",
+      "supportedBy": [],
+      "type": "EVM"
+    },
+    {
+      "coinApi": "evm",
+      "explorerUrl": "https://arbiscan.io/tx",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {
+        "chainId": 42161
+      },
+      "memos": false,
+      "name": "Arbitrum",
+      "nativeAsset": "ARBETH",
+      "networkTicker": "ARBETH",
+      "nodeUrls": [
+        "https://api.dev.blockchain.info/enodes/rpc/arb"
+      ],
+      "shortName": "Arbitrum",
+      "supportedBy": [],
+      "type": "EVM"
+    },
+    {
+      "coinApi": "evm",
+      "explorerUrl": "https://optimistic.etherscan.io/tx",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {
+        "chainId": 10
+      },
+      "memos": false,
+      "name": "Optimism",
+      "nativeAsset": "OETH",
+      "networkTicker": "OETH",
+      "nodeUrls": [
+        "https://api.dev.blockchain.info/enodes/rpc/op"
+      ],
+      "shortName": "Optimism",
       "supportedBy": [],
       "type": "EVM"
     },
