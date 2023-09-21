@@ -129,10 +129,7 @@
         "https://api.staging.blockchain.info/enodes/rpc/op"
       ],
       "shortName": "Optimism",
-      "supportedBy": [
-        "DSC_DATA",
-        "DSC_TRANSACTIONS"
-      ],
+      "supportedBy": [],
       "type": "EVM"
     },
     {
