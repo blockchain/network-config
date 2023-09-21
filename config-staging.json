@@ -60,7 +60,7 @@
       "nativeAsset": "BNB",
       "networkTicker": "BNB",
       "nodeUrls": [
-        "https://api.staging.blockchain.info/bnb/nodes/rpc"
+        "https://api.staging.blockchain.info/enodes/rpc/bnb"
       ],
       "shortName": "BSC",
       "supportedBy": [
@@ -103,7 +103,7 @@
       "nativeAsset": "ARBETH",
       "networkTicker": "ARBETH",
       "nodeUrls": [
-        "https://api.blockchain.info/arb/nodes/rpc"
+        "https://api.staging.blockchain.info/enodes/rpc/arb"
       ],
       "shortName": "Arbitrum",
       "supportedBy": [],
@@ -123,7 +123,7 @@
       "nativeAsset": "OETH",
       "networkTicker": "OETH",
       "nodeUrls": [
-        "https://api.blockchain.info/op/nodes/rpc"
+        "https://api.staging.blockchain.info/enodes/rpc/op"
       ],
       "shortName": "Optimism",
       "supportedBy": [],
