@@ -37,7 +37,7 @@
       "nativeAsset": "MATIC.MATIC",
       "networkTicker": "MATIC",
       "nodeUrls": [
-        "https://api.staging.blockchain.info/enodes/rpc/matic"
+        "https://api.dev.blockchain.info/enodes/rpc/matic"
       ],
       "shortName": "Polygon",
       "supportedBy": [
