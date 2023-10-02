@@ -107,7 +107,7 @@
       "nativeAsset": "ARBETH",
       "networkTicker": "ARBETH",
       "nodeUrls": [
-        "https://api.staging.blockchain.info/enodes/rpc/arb"
+        "https://api.blockchain.info/enodes/rpc/arb"
       ],
       "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/arbitrum/info/logo.png",
       "shortName": "Arbitrum",
