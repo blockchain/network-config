@@ -16,6 +16,7 @@
       "nodeUrls": [
         "https://api.blockchain.info/eth/nodes/rpc"
       ],
+      "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/ethereum/info/logo.png",
       "shortName": "Ethereum",
       "supportedBy": [
         "DSC_DATA",
@@ -39,6 +40,7 @@
       "nodeUrls": [
         "https://api.dev.blockchain.info/enodes/rpc/matic"
       ],
+      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/polygon/info/logo.png",
       "shortName": "Polygon",
       "supportedBy": [
         "DSC_DATA",
@@ -62,6 +64,7 @@
       "nodeUrls": [
         "https://api.dev.blockchain.info/bnb/nodes/rpc"
       ],
+      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/smartchain/info/logo.png",
       "shortName": "BSC",
       "supportedBy": [],
       "type": "EVM"
@@ -82,6 +85,7 @@
       "nodeUrls": [
         "https://api.blockchain.info/avax/nodes/rpc/ext/bc/C/rpc"
       ],
+      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/avalanchec/info/logo.png",
       "shortName": "Avalanche",
       "supportedBy": [],
       "type": "EVM"
@@ -102,6 +106,7 @@
       "nodeUrls": [
         "https://api.dev.blockchain.info/enodes/rpc/arb"
       ],
+      "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/arbitrum/info/logo.png",
       "shortName": "Arbitrum",
       "supportedBy": [],
       "type": "EVM"
@@ -122,6 +127,7 @@
       "nodeUrls": [
         "https://api.dev.blockchain.info/enodes/rpc/op"
       ],
+      "logoPngUrl": "https,://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/optimism/info/logo.png",
       "shortName": "Optimism",
       "supportedBy": [],
       "type": "EVM"
@@ -138,6 +144,7 @@
       "nativeAsset": "BTC",
       "networkTicker": "BTC",
       "nodeUrls": [],
+      "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/bitcoin/info/logo.png",
       "shortName": "Bitcoin",
       "supportedBy": [
         "DSC_DATA"
@@ -156,6 +163,7 @@
       "nativeAsset": "BCH",
       "networkTicker": "BCH",
       "nodeUrls": [],
+      "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/bitcoincash/info/logo.png",
       "shortName": "Bitcoin Cash",
       "supportedBy": [
         "DSC_DATA"
@@ -176,6 +184,7 @@
       "nodeUrls": [
         "https://api.blockchain.info/stellar"
       ],
+      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/stellar/info/logo.png",
       "shortName": "Stellar",
       "supportedBy": [
         "DSC_DATA",
@@ -197,6 +206,7 @@
       "nodeUrls": [
         "https://ssc-dao.genesysgo.net/"
       ],
+      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/solana/info/logo.png",
       "shortName": "Solana",
       "supportedBy": [
         "DSC_DATA",
@@ -216,6 +226,7 @@
       "nativeAsset": "STX",
       "networkTicker": "STX",
       "nodeUrls": [],
+      "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/stacks/info/logo.png",
       "shortName": "Stacks",
       "supportedBy": [
         "DSC_DATA",
