@@ -106,7 +106,7 @@
       "nodeUrls": [
         "https://api.dev.blockchain.info/enodes/rpc/arb"
       ],
-      "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/arbitrum/info/logo.png",
+      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/arbitrum/info/logo.png",
       "shortName": "Arbitrum",
       "supportedBy": [],
       "type": "EVM"
