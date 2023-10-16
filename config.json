@@ -108,10 +108,7 @@
       ],
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/arbitrum/info/logo.png",
       "shortName": "Arbitrum",
-      "supportedBy": [
-        "DSC_DATA",
-        "DSC_TRANSACTIONS"
-      ],
+      "supportedBy": [],
       "type": "EVM"
     },
     {
