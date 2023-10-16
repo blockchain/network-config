@@ -66,10 +66,7 @@
       ],
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/smartchain/info/logo.png",
       "shortName": "BSC",
-      "supportedBy": [
-        "DSC_DATA",
-        "DSC_TRANSACTIONS"
-      ],
+      "supportedBy": [],
       "type": "EVM"
     },
     {
