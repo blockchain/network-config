@@ -239,6 +239,23 @@
         "DSC_TRANSACTIONS"
       ],
       "type": "STX"
+    },
+     {
+      "coinApi": "xrp",
+      "explorerUrl": "https://xrpscan.com/",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {},
+      "memos": true,
+      "name": "Ripple",
+      "nativeAsset": "XRP",
+      "networkTicker": "XRP",
+      "nodeUrls": [],
+      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ripple/info/logo.png",
+      "shortName": "XRP",
+      "supportedBy": [],
+      "type": "XRP"
     }
   ],
   "types": [
@@ -317,6 +334,17 @@
       ],
       "style": "SINGLE",
       "type": "XLM"
+    },
+     {
+      "derivations": [
+        {
+          "coinType": 144,
+          "descriptor": 0,
+          "purpose": 44
+        }
+      ],
+      "style": "SINGLE",
+      "type": "XRP"
     }
   ]
 }
