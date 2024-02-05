@@ -135,7 +135,10 @@
       ],
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/optimism/info/logo.png",
       "shortName": "Optimism",
-      "supportedBy": [],
+      "supportedBy": [
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
+      ],
       "type": "EVM"
     },
     {
