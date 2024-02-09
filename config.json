@@ -118,6 +118,30 @@
       "type": "EVM"
     },
     {
+      "coinApi": "evm",
+      "explorerUrl": "https://optimistic.etherscan.io/tx",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {
+        "chainId": 10
+      },
+      "memos": false,
+      "name": "Optimism",
+      "nativeAsset": "OETH",
+      "networkTicker": "OETH",
+      "nodeUrls": [
+        "https://api.blockchain.info/enodes/rpc/op"
+      ],
+      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/optimism/info/logo.png",
+      "shortName": "Optimism",
+      "supportedBy": [
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
+      ],
+      "type": "EVM"
+    },
+    {
       "coinApi": "btc",
       "explorerUrl": "https://www.blockchain.com/btc/tx",
       "feeCurrencies": [
