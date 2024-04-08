@@ -131,7 +131,7 @@
       "nativeAsset": "OETH",
       "networkTicker": "OETH",
       "nodeUrls": [
-        "https://api.blockchain.info/enodes/rpc/op"
+        "https://mainnet.optimism.io/"
       ],
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/optimism/info/logo.png",
       "shortName": "Optimism",
