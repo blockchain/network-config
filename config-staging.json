@@ -142,6 +142,27 @@
       "type": "EVM"
     },
     {
+      "coinApi": "evm",
+      "explorerUrl": "https://basescan.org/tx",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {
+        "chainId": 8453
+      },
+      "memos": false,
+      "name": "Base",
+      "nativeAsset": "BASEETH",
+      "networkTicker": "BASEETH",
+      "nodeUrls": [
+        "https://api.staging.blockchain.info/base/nodes/rpc"
+      ],
+      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/5c9fbc0/blockchains/base/info/logo.png",
+      "shortName": "Base",
+      "supportedBy": [],
+      "type": "EVM"
+    },
+    {
       "coinApi": "btc",
       "explorerUrl": "https://www.blockchain.com/btc/tx",
       "feeCurrencies": [

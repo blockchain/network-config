@@ -127,8 +127,29 @@
       "nodeUrls": [
         "https://api.dev.blockchain.info/enodes/rpc/op"
       ],
-      "logoPngUrl": "https,://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/optimism/info/logo.png",
+      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/optimism/info/logo.png",
       "shortName": "Optimism",
+      "supportedBy": [],
+      "type": "EVM"
+    },
+    {
+      "coinApi": "evm",
+      "explorerUrl": "https://basescan.org/tx",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {
+        "chainId": 8453
+      },
+      "memos": false,
+      "name": "Base",
+      "nativeAsset": "BASEETH",
+      "networkTicker": "BASEETH",
+      "nodeUrls": [
+        "https://api.dev.blockchain.info/base/nodes/rpc"
+      ],
+      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/5c9fbc0/blockchains/base/info/logo.png",
+      "shortName": "Base",
       "supportedBy": [],
       "type": "EVM"
     },
