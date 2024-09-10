@@ -146,7 +146,7 @@
       "nativeAsset": "BASEETH",
       "networkTicker": "BASEETH",
       "nodeUrls": [
-        "https://api.blockchain.info/base/nodes/rpc/"
+        "https://api.dev.blockchain.info/base/nodes/rpc/"
       ],
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/5c9fbc0/blockchains/base/info/logo.png",
       "shortName": "Base",
