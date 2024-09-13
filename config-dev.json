@@ -254,6 +254,24 @@
         "DSC_TRANSACTIONS"
       ],
       "type": "STX"
+    },
+    {
+      "coinApi": "ton",
+      "explorerUrl": "https://tonscan.org/tx",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {},
+      "memos": false,
+      "name": "Ton",
+      "nativeAsset": "TON",
+      "networkTicker": "TON",
+      "nodeUrls": [],
+      "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/ton/info/logo.png",
+      "shortName": "Ton",
+      "supportedBy": [
+      ],
+      "type": "TON"
     }
   ],
   "types": [
@@ -332,6 +350,17 @@
       ],
       "style": "SINGLE",
       "type": "XLM"
+    },
+    {
+      "derivations": [
+        {
+          "coinType": 607,
+          "descriptor": 0,
+          "purpose": 44
+        }
+      ],
+      "style": "SINGLE",
+      "type": "TON"
     }
   ]
 }
