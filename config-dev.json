@@ -168,7 +168,8 @@
       "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/bitcoin/info/logo.png",
       "shortName": "Bitcoin",
       "supportedBy": [
-        "DSC_DATA"
+        "DSC_DATA",
+        "DSC_ARTIFACTS"
       ],
       "type": "BTC"
     },
