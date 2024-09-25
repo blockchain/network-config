@@ -20,8 +20,7 @@
       "shortName": "Ethereum",
       "supportedBy": [
         "DSC_DATA",
-        "DSC_TRANSACTIONS",
-        "DSC_ARTIFACTS"
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -45,8 +44,7 @@
       "shortName": "Polygon",
       "supportedBy": [
         "DSC_DATA",
-        "DSC_TRANSACTIONS",
-        "DSC_ARTIFACTS"
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -70,8 +68,7 @@
       "shortName": "BSC",
       "supportedBy": [
         "DSC_DATA",
-        "DSC_TRANSACTIONS",
-        "DSC_ARTIFACTS"
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -116,8 +113,7 @@
       "shortName": "Arbitrum",
       "supportedBy": [
         "DSC_DATA",
-        "DSC_TRANSACTIONS",
-        "DSC_ARTIFACTS"
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -141,8 +137,7 @@
       "shortName": "Optimism",
       "supportedBy": [
         "DSC_DATA",
-        "DSC_TRANSACTIONS",
-        "DSC_ARTIFACTS"
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -166,8 +161,7 @@
       "shortName": "Base",
       "supportedBy": [
         "DSC_DATA",
-        "DSC_TRANSACTIONS",
-        "DSC_ARTIFACTS"
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -186,8 +180,7 @@
       "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/bitcoin/info/logo.png",
       "shortName": "Bitcoin",
       "supportedBy": [
-        "DSC_DATA",
-        "DSC_ARTIFACTS"
+        "DSC_DATA"
       ],
       "type": "BTC"
     },
