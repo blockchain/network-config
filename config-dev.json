@@ -263,7 +263,7 @@
         "native"
       ],
       "identifiers": {},
-      "memos": false,
+      "memos": true,
       "name": "Ton",
       "nativeAsset": "TON",
       "networkTicker": "TON",
