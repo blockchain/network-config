@@ -159,7 +159,10 @@
       ],
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/5c9fbc0/blockchains/base/info/logo.png",
       "shortName": "Base",
-      "supportedBy": [],
+      "supportedBy": [
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
+      ],
       "type": "EVM"
     },
     {
