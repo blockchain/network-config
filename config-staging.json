@@ -19,9 +19,9 @@
       "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/ethereum/info/logo.png",
       "shortName": "Ethereum",
       "supportedBy": [
+        "DSC_ARTIFACTS",
         "DSC_DATA",
-        "DSC_TRANSACTIONS",
-        "DSC_ARTIFACTS"
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -44,9 +44,9 @@
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/polygon/info/logo.png",
       "shortName": "Polygon",
       "supportedBy": [
+        "DSC_ARTIFACTS",
         "DSC_DATA",
-        "DSC_TRANSACTIONS",
-        "DSC_ARTIFACTS"
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -69,9 +69,9 @@
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/smartchain/info/logo.png",
       "shortName": "BSC",
       "supportedBy": [
+        "DSC_ARTIFACTS",
         "DSC_DATA",
-        "DSC_TRANSACTIONS",
-        "DSC_ARTIFACTS"
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -115,9 +115,9 @@
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/arbitrum/info/logo.png",
       "shortName": "Arbitrum",
       "supportedBy": [
+        "DSC_ARTIFACTS",
         "DSC_DATA",
-        "DSC_TRANSACTIONS",
-        "DSC_ARTIFACTS"
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -140,9 +140,9 @@
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/optimism/info/logo.png",
       "shortName": "Optimism",
       "supportedBy": [
+        "DSC_ARTIFACTS",
         "DSC_DATA",
-        "DSC_TRANSACTIONS",
-        "DSC_ARTIFACTS"
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -165,9 +165,9 @@
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/5c9fbc0/blockchains/base/info/logo.png",
       "shortName": "Base",
       "supportedBy": [
+        "DSC_ARTIFACTS",
         "DSC_DATA",
-        "DSC_TRANSACTIONS",
-        "DSC_ARTIFACTS"
+        "DSC_TRANSACTIONS"
       ],
       "type": "EVM"
     },
@@ -186,8 +186,8 @@
       "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/bitcoin/info/logo.png",
       "shortName": "Bitcoin",
       "supportedBy": [
-        "DSC_DATA",
-        "DSC_ARTIFACTS"
+        "DSC_ARTIFACTS",
+        "DSC_DATA"
       ],
       "type": "BTC"
     },
