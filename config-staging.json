@@ -308,6 +308,23 @@
       "supportedBy": [
       ],
       "type": "TON"
+    },
+    {
+      "coinApi": "tvm",
+      "explorerUrl": "https://tronscan.org/#/transaction",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {},
+      "memos": false,
+      "name": "TRON",
+      "nativeAsset": "TRX",
+      "networkTicker": "TRX",
+      "nodeUrls": [],
+      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/tron/info/logo.png",
+      "shortName": "TRON",
+      "supportedBy": [],
+      "type": "TVM"
     }
   ],
   "types": [
@@ -408,6 +425,17 @@
       ],
       "style": "SINGLE",
       "type": "TON"
+    },
+    {
+      "derivations": [
+        {
+          "coinType": 195,
+          "descriptor": 0,
+          "purpose": 44
+        }
+      ],
+      "style": "SINGLE",
+      "type": "TVM"
     }
   ]
 }
