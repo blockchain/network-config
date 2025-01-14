@@ -275,7 +275,7 @@
       "type": "TON"
     },
     {
-      "coinApi": "trx",
+      "coinApi": "tvm",
       "explorerUrl": "https://tronscan.org/#/transaction",
       "feeCurrencies": [
         "native"
