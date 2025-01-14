@@ -289,7 +289,7 @@
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/tron/info/logo.png",
       "shortName": "TRON",
       "supportedBy": [],
-      "type": "TRX"
+      "type": "TVM"
     }
   ],
   "types": [
@@ -379,6 +379,17 @@
       ],
       "style": "SINGLE",
       "type": "TON"
+    },
+    {
+      "derivations": [
+        {
+          "coinType": 195,
+          "descriptor": 0,
+          "purpose": 44
+        }
+      ],
+      "style": "SINGLE",
+      "type": "TVM"
     }
   ]
 }
