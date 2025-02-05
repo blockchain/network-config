@@ -93,7 +93,10 @@
       ],
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/avalanchec/info/logo.png",
       "shortName": "Avalanche",
-      "supportedBy": [],
+      "supportedBy": [
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
+      ],
       "type": "EVM"
     },
     {
