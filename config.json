@@ -425,6 +425,17 @@
       ],
       "style": "SINGLE",
       "type": "TON"
+    },
+    {
+      "derivations": [
+        {
+          "coinType": 195,
+          "descriptor": 0,
+          "purpose": 44
+        }
+      ],
+      "style": "SINGLE",
+      "type": "TVM"
     }
   ]
 }
