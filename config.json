@@ -215,7 +215,7 @@
     },
     {
       "coinApi": "xlm",
-      "explorerUrl": "https://stellar.expert/explorer/public/search?term=",
+      "explorerUrl": "https://stellar.expert/explorer/public/tx",
       "feeCurrencies": [
         "native"
       ],
