@@ -65,7 +65,7 @@
         "https://api.dev.blockchain.info/bnb/nodes/rpc"
       ],
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/0025c18/blockchains/smartchain/info/logo.png",
-      "shortName": "BSC",
+      "shortName": "BNB Chain",
       "supportedBy": [],
       "type": "EVM"
     },
