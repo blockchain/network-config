@@ -339,9 +339,7 @@
       "name": "ADA",
       "nativeAsset": "ADA",
       "networkTicker": "ADA",
-      "nodeUrls": [
-        "http://coin-node-ada-java-kilo-rosetta-api.internal-nodes"
-      ],
+      "nodeUrls": [],
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/cardano/info/logo.png",
       "shortName": "ADA",
       "supportedBy": [
