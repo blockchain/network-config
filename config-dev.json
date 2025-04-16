@@ -270,8 +270,7 @@
       "nodeUrls": [],
       "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/ton/info/logo.png",
       "shortName": "Ton",
-      "supportedBy": [
-      ],
+      "supportedBy": [],
       "type": "TON"
     },
     {
@@ -290,6 +289,28 @@
       "shortName": "TRON",
       "supportedBy": [],
       "type": "TVM"
+    },
+    {
+      "coinApi": "ada",
+      "explorerUrl": "https://cardanoscan.io/transaction",
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {},
+      "memos": true,
+      "name": "ADA",
+      "nativeAsset": "ADA",
+      "networkTicker": "ADA",
+      "nodeUrls": [
+        "http://coin-node-ada-java-kilo-rosetta-api.internal-nodes"
+      ],
+      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/cardano/info/logo.png",
+      "shortName": "ADA",
+      "supportedBy": [
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
+      ],
+      "type": "ADA"
     }
   ],
   "types": [
@@ -390,6 +411,17 @@
       ],
       "style": "SINGLE",
       "type": "TVM"
+    },
+    {
+      "derivations": [
+        {
+          "coinType": 1815,
+          "descriptor": 0,
+          "purpose": 44
+        }
+      ],
+      "style": "SINGLE",
+      "type": "ADA"
     }
   ]
 }
