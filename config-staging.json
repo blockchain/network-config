@@ -239,7 +239,8 @@
       "coinApi": "sol",
       "explorerUrl": "https://explorer.solana.com/tx",
       "feeCurrencies": [
-        "native"
+        "native",
+        "token"
       ],
       "identifiers": {},
       "memos": true,
