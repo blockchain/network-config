@@ -217,6 +217,7 @@
     {
       "coinApi": "sol",
       "explorerUrl": "https://explorer.solana.com/tx",
+      "tokenExplorerUrl": "https://solscan.io/token",
       "feeCurrencies": [
         "native"
       ],
