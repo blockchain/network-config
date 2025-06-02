@@ -3,6 +3,7 @@
     {
       "coinApi": "evm",
       "explorerUrl": "https://www.blockchain.com/eth/tx",
+      "tokenExplorerUrl": "https://etherscan.io/token",
       "feeCurrencies": [
         "native"
       ],
@@ -27,6 +28,7 @@
     {
       "coinApi": "evm",
       "explorerUrl": "https://polygonscan.com/tx",
+      "tokenExplorerUrl": "https://polygonscan.com/token",
       "feeCurrencies": [
         "native"
       ],
@@ -51,6 +53,7 @@
     {
       "coinApi": "evm",
       "explorerUrl": "https://bscscan.com/tx",
+      "tokenExplorerUrl": "https://bscscan.com/token",
       "feeCurrencies": [
         "native"
       ],
@@ -72,6 +75,7 @@
     {
       "coinApi": "evm",
       "explorerUrl": "https://snowtrace.io/tx",
+      "tokenExplorerUrl": "https://snowtrace.io/token",
       "feeCurrencies": [
         "native"
       ],
@@ -93,6 +97,7 @@
     {
       "coinApi": "evm",
       "explorerUrl": "https://arbiscan.io/tx",
+      "tokenExplorerUrl": "https://arbiscan.io/token",
       "feeCurrencies": [
         "native"
       ],
@@ -114,6 +119,7 @@
     {
       "coinApi": "evm",
       "explorerUrl": "https://optimistic.etherscan.io/tx",
+      "tokenExplorerUrl": "https://optimistic.etherscan.io/token",
       "feeCurrencies": [
         "native"
       ],
@@ -135,6 +141,7 @@
     {
       "coinApi": "evm",
       "explorerUrl": "https://basescan.org/tx",
+      "tokenExplorerUrl": "https://basescan.org/token",
       "feeCurrencies": [
         "native"
       ],
@@ -195,6 +202,7 @@
     {
       "coinApi": "xlm",
       "explorerUrl": "https://stellar.expert/explorer/public/tx",
+      "tokenExplorerUrl": "https://stellar.expert/explorer/public/asset",
       "feeCurrencies": [
         "native"
       ],
@@ -240,6 +248,7 @@
     {
       "coinApi": "stx",
       "explorerUrl": "https://explorer.stacks.co/txid",
+      "tokenExplorerUrl": "https://explorer.hiro.so/token",
       "feeCurrencies": [
         "native"
       ],
@@ -260,6 +269,7 @@
     {
       "coinApi": "ton",
       "explorerUrl": "https://tonscan.org/tx",
+      "tokenExplorerUrl": "https://tonscan.org/jetton",
       "feeCurrencies": [
         "native"
       ],
@@ -277,6 +287,7 @@
     {
       "coinApi": "tvm",
       "explorerUrl": "https://tronscan.org/#/transaction",
+      "tokenExplorerUrl": "https://tronscan.org/#/token20",
       "feeCurrencies": [
         "native"
       ],
@@ -299,6 +310,7 @@
     {
       "coinApi": "ada",
       "explorerUrl": "https://cardanoscan.io/transaction",
+      "tokenExplorerUrl": "https://cardanoscan.io/token",
       "feeCurrencies": [
         "native"
       ],
