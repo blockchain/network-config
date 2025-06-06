@@ -366,7 +366,8 @@
         "DSC_DATA",
         "DSC_TRANSACTIONS"
       ],
-      "type": "ADA"
+      "type": "ADA",
+      "signatureAlgorithm": "ed25519Cardano"
     }
   ],
   "types": [
