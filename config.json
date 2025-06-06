@@ -238,6 +238,7 @@
     {
       "coinApi": "sol",
       "explorerUrl": "https://explorer.solana.com/tx",
+      "tokenExplorerUrl": "https://solscan.io/token",
       "feeCurrencies": [
         "native"
       ],
@@ -318,7 +319,9 @@
       "feeCurrencies": [
         "native"
       ],
-      "identifiers": {},
+      "identifiers": {
+        "chainId": 728126428
+      },
       "memos": false,
       "name": "TRON",
       "nativeAsset": "TRX",
@@ -326,7 +329,10 @@
       "nodeUrls": [],
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/tron/info/logo.png",
       "shortName": "TRON",
-      "supportedBy": [],
+      "supportedBy": [
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
+      ],
       "type": "TVM"
     }
   ],
