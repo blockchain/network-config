@@ -24,7 +24,8 @@
         "DSC_DATA",
         "DSC_TRANSACTIONS"
       ],
-      "type": "EVM"
+      "type": "EVM",
+      "curveType": "secp256k1"
     },
     {
       "coinApi": "evm",
@@ -50,7 +51,8 @@
         "DSC_DATA",
         "DSC_TRANSACTIONS"
       ],
-      "type": "EVM"
+      "type": "EVM",
+      "curveType": "secp256k1"
     },
     {
       "coinApi": "evm",
@@ -76,7 +78,8 @@
         "DSC_DATA",
         "DSC_TRANSACTIONS"
       ],
-      "type": "EVM"
+      "type": "EVM",
+      "curveType": "secp256k1"
     },
     {
       "coinApi": "evm",
@@ -101,7 +104,8 @@
         "DSC_DATA",
         "DSC_TRANSACTIONS"
       ],
-      "type": "EVM"
+      "type": "EVM",
+      "curveType": "secp256k1"
     },
     {
       "coinApi": "evm",
@@ -127,7 +131,8 @@
         "DSC_DATA",
         "DSC_TRANSACTIONS"
       ],
-      "type": "EVM"
+      "type": "EVM",
+      "curveType": "secp256k1"
     },
     {
       "coinApi": "evm",
@@ -153,7 +158,8 @@
         "DSC_DATA",
         "DSC_TRANSACTIONS"
       ],
-      "type": "EVM"
+      "type": "EVM",
+      "curveType": "secp256k1"
     },
     {
       "coinApi": "evm",
@@ -179,7 +185,8 @@
         "DSC_DATA",
         "DSC_TRANSACTIONS"
       ],
-      "type": "EVM"
+      "type": "EVM",
+      "curveType": "secp256k1"
     },
     {
       "coinApi": "btc",
@@ -199,7 +206,8 @@
         "DSC_ARTIFACTS",
         "DSC_DATA"
       ],
-      "type": "BTC"
+      "type": "BTC",
+      "curveType": "secp256k1"
     },
     {
       "coinApi": "btc",
@@ -218,7 +226,8 @@
         "DSC_DATA"
       ],
       "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/bitcoincash/info/logo.png",
-      "type": "BCH"
+      "type": "BCH",
+      "curveType": "secp256k1"
     },
     {
       "coinApi": "xlm",
@@ -241,7 +250,8 @@
         "DSC_DATA",
         "DSC_TRANSACTIONS"
       ],
-      "type": "XLM"
+      "type": "XLM",
+      "curveType": "ed25519"
     },
     {
       "coinApi": "sol",
@@ -265,7 +275,8 @@
         "DSC_DATA",
         "DSC_TRANSACTIONS"
       ],
-      "type": "SOL"
+      "type": "SOL",
+      "curveType": "ed25519"
     },
     {
       "coinApi": "stx",
@@ -286,7 +297,8 @@
         "DSC_DATA",
         "DSC_TRANSACTIONS"
       ],
-      "type": "STX"
+      "type": "STX",
+      "curveType": "secp256k1"
     },
     {
       "coinApi": "xrp",
@@ -304,7 +316,8 @@
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ripple/info/logo.png",
       "shortName": "XRP",
       "supportedBy": [],
-      "type": "XRP"
+      "type": "XRP",
+      "curveType": "secp256k1"
     },
     {
       "coinApi": "ton",
@@ -322,7 +335,8 @@
       "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/ton/info/logo.png",
       "shortName": "Ton",
       "supportedBy": [],
-      "type": "TON"
+      "type": "TON",
+      "curveType": "ed25519"
     },
     {
       "coinApi": "tvm",
@@ -345,7 +359,8 @@
         "DSC_DATA",
         "DSC_TRANSACTIONS"
       ],
-      "type": "TVM"
+      "type": "TVM",
+      "curveType": "secp256k1"
     },
     {
       "coinApi": "ada",
@@ -367,7 +382,7 @@
         "DSC_TRANSACTIONS"
       ],
       "type": "ADA",
-      "signatureAlgorithm": "ed25519Cardano"
+      "curveType": "ed25519Cardano"
     }
   ],
   "types": [
