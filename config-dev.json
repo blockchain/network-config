@@ -338,6 +338,7 @@
           "purpose": 44
         }
       ],
+      "curveType": "secp256k1",
       "style": "SINGLE",
       "type": "EVM"
     },
@@ -349,6 +350,7 @@
           "purpose": 44
         }
       ],
+      "curveType": "ed25519",
       "style": "SINGLE",
       "type": "SOL"
     },
@@ -360,6 +362,7 @@
           "purpose": 44
         }
       ],
+      "curveType": "secp256k1",
       "style": "SINGLE",
       "type": "STX"
     },
@@ -376,6 +379,7 @@
           "purpose": 84
         }
       ],
+      "curveType": "secp256k1",
       "style": "EXTENDED",
       "type": "BTC"
     },
@@ -392,6 +396,7 @@
           "purpose": 44
         }
       ],
+      "curveType": "secp256k1",
       "style": "EXTENDED",
       "type": "BCH"
     },
@@ -403,6 +408,7 @@
           "purpose": 44
         }
       ],
+      "curveType": "ed25519",
       "style": "SINGLE",
       "type": "XLM"
     },
@@ -414,6 +420,7 @@
           "purpose": 44
         }
       ],
+      "curveType": "secp256k1",
       "style": "SINGLE",
       "type": "TON"
     },
@@ -425,6 +432,7 @@
           "purpose": 44
         }
       ],
+      "curveType": "secp256k1",
       "style": "SINGLE",
       "type": "TVM"
     },
@@ -436,6 +444,7 @@
           "purpose": 1852
         }
       ],
+      "curveType": "ed25519Cardano",
       "style": "EXTENDED",
       "type": "ADA"
     }
