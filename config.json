@@ -361,7 +361,10 @@
       "nodeUrls": [],
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/cardano/info/logo.png",
       "shortName": "ADA",
-      "supportedBy": [],
+      "supportedBy": [
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
+      ],
       "type": "ADA"
     }
   ],
