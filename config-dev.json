@@ -4,6 +4,7 @@
       "coinApi": "evm",
       "explorerUrl": "https://www.blockchain.com/eth/tx",
       "tokenExplorerUrl": "https://etherscan.io/token",
+      "hasUnverifiedTokens": true,
       "feeCurrencies": [
         "native"
       ],
@@ -142,6 +143,7 @@
       "coinApi": "evm",
       "explorerUrl": "https://basescan.org/tx",
       "tokenExplorerUrl": "https://basescan.org/token",
+      "hasUnverifiedTokens": true,
       "feeCurrencies": [
         "native"
       ],
@@ -226,6 +228,7 @@
       "coinApi": "sol",
       "explorerUrl": "https://explorer.solana.com/tx",
       "tokenExplorerUrl": "https://explorer.solana.com/address",
+      "hasUnverifiedTokens": true,
       "feeCurrencies": [
         "native"
       ],
