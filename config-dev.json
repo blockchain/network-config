@@ -4,6 +4,7 @@
       "coinApi": "evm",
       "explorerUrl": "https://www.blockchain.com/eth/tx",
       "tokenExplorerUrl": "https://etherscan.io/token",
+      "hasUnverifiedTokens": true,
       "feeCurrencies": [
         "native"
       ],
@@ -29,6 +30,7 @@
       "coinApi": "evm",
       "explorerUrl": "https://polygonscan.com/tx",
       "tokenExplorerUrl": "https://polygonscan.com/token",
+      "hasUnverifiedTokens": false,
       "feeCurrencies": [
         "native"
       ],
@@ -54,6 +56,7 @@
       "coinApi": "evm",
       "explorerUrl": "https://bscscan.com/tx",
       "tokenExplorerUrl": "https://bscscan.com/token",
+      "hasUnverifiedTokens": false,
       "feeCurrencies": [
         "native"
       ],
@@ -76,6 +79,7 @@
       "coinApi": "evm",
       "explorerUrl": "https://snowtrace.io/tx",
       "tokenExplorerUrl": "https://snowtrace.io/token",
+      "hasUnverifiedTokens": false,
       "feeCurrencies": [
         "native"
       ],
@@ -98,6 +102,7 @@
       "coinApi": "evm",
       "explorerUrl": "https://arbiscan.io/tx",
       "tokenExplorerUrl": "https://arbiscan.io/token",
+      "hasUnverifiedTokens": false,
       "feeCurrencies": [
         "native"
       ],
@@ -120,6 +125,7 @@
       "coinApi": "evm",
       "explorerUrl": "https://optimistic.etherscan.io/tx",
       "tokenExplorerUrl": "https://optimistic.etherscan.io/token",
+      "hasUnverifiedTokens": false,
       "feeCurrencies": [
         "native"
       ],
@@ -142,6 +148,7 @@
       "coinApi": "evm",
       "explorerUrl": "https://basescan.org/tx",
       "tokenExplorerUrl": "https://basescan.org/token",
+      "hasUnverifiedTokens": true,
       "feeCurrencies": [
         "native"
       ],
@@ -163,6 +170,7 @@
     {
       "coinApi": "btc",
       "explorerUrl": "https://www.blockchain.com/btc/tx",
+      "hasUnverifiedTokens": false,
       "feeCurrencies": [
         "native"
       ],
@@ -183,6 +191,7 @@
     {
       "coinApi": "btc",
       "explorerUrl": "https://www.blockchain.com/bch/tx",
+      "hasUnverifiedTokens": false,
       "feeCurrencies": [
         "native"
       ],
@@ -203,6 +212,7 @@
       "coinApi": "xlm",
       "explorerUrl": "https://stellar.expert/explorer/public/tx",
       "tokenExplorerUrl": "https://stellar.expert/explorer/public/asset",
+      "hasUnverifiedTokens": false,
       "feeCurrencies": [
         "native"
       ],
@@ -226,6 +236,7 @@
       "coinApi": "sol",
       "explorerUrl": "https://explorer.solana.com/tx",
       "tokenExplorerUrl": "https://explorer.solana.com/address",
+      "hasUnverifiedTokens": true,
       "feeCurrencies": [
         "native"
       ],
@@ -249,6 +260,7 @@
       "coinApi": "stx",
       "explorerUrl": "https://explorer.stacks.co/txid",
       "tokenExplorerUrl": "https://explorer.hiro.so/token",
+      "hasUnverifiedTokens": false,
       "feeCurrencies": [
         "native"
       ],
@@ -270,6 +282,7 @@
       "coinApi": "ton",
       "explorerUrl": "https://tonscan.org/tx",
       "tokenExplorerUrl": "https://tonscan.org/jetton",
+      "hasUnverifiedTokens": false,
       "feeCurrencies": [
         "native"
       ],
@@ -288,6 +301,7 @@
       "coinApi": "tvm",
       "explorerUrl": "https://tronscan.org/#/transaction",
       "tokenExplorerUrl": "https://tronscan.org/#/token20",
+      "hasUnverifiedTokens": false,
       "feeCurrencies": [
         "native"
       ],
@@ -311,6 +325,7 @@
       "coinApi": "ada",
       "explorerUrl": "https://cardanoscan.io/transaction",
       "tokenExplorerUrl": "https://cardanoscan.io/token",
+      "hasUnverifiedTokens": false,
       "feeCurrencies": [
         "native"
       ],
