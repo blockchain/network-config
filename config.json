@@ -349,12 +349,12 @@
         "chainId": 728126428
       },
       "memos": false,
-      "name": "TRON",
+      "name": "Tron",
       "nativeAsset": "TRX",
       "networkTicker": "TRX",
       "nodeUrls": [],
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/tron/info/logo.png",
-      "shortName": "TRON",
+      "shortName": "Tron",
       "supportedBy": [
         "DSC_DATA",
         "DSC_TRANSACTIONS"
@@ -371,12 +371,12 @@
       ],
       "identifiers": {},
       "memos": false,
-      "name": "ADA",
+      "name": "Cardano",
       "nativeAsset": "ADA",
       "networkTicker": "ADA",
       "nodeUrls": [],
       "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/cardano/info/logo.png",
-      "shortName": "ADA",
+      "shortName": "Cardano",
       "supportedBy": [
         "DSC_DATA",
         "DSC_TRANSACTIONS"
