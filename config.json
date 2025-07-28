@@ -4,7 +4,7 @@
       "coinApi": "evm",
       "explorerUrl": "https://www.blockchain.com/eth/tx",
       "tokenExplorerUrl": "https://etherscan.io/token",
-      "hasUnverifiedTokens": false,
+      "hasUnverifiedTokens": true,
       "feeCurrencies": [
         "native"
       ],
@@ -165,7 +165,7 @@
       "coinApi": "evm",
       "explorerUrl": "https://basescan.org/tx",
       "tokenExplorerUrl": "https://basescan.org/token",
-      "hasUnverifiedTokens": false,
+      "hasUnverifiedTokens": true,
       "feeCurrencies": [
         "native"
       ],
