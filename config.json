@@ -301,7 +301,7 @@
     },
     {
       "coinApi": "xrp",
-      "explorerUrl": "https://xrpscan.com/tx/",
+      "explorerUrl": "https://xrpscan.com/tx",
       "tokenExplorerUrl": "https://xrpscan.com/token",
       "hasUnverifiedTokens": false,
       "feeCurrencies": [
