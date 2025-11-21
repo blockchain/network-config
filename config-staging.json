@@ -361,28 +361,6 @@
         "DSC_TRANSACTIONS"
       ],
       "type": "TVM"
-    },
-    {
-      "coinApi": "ada",
-      "explorerUrl": "https://cardanoscan.io/transaction",
-      "tokenExplorerUrl": "https://cardanoscan.io/token",
-      "hasUnverifiedTokens": false,
-      "feeCurrencies": [
-        "native"
-      ],
-      "identifiers": {},
-      "memos": false,
-      "name": "Cardano",
-      "nativeAsset": "ADA",
-      "networkTicker": "ADA",
-      "nodeUrls": [],
-      "logoPngUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/cardano/info/logo.png",
-      "shortName": "Cardano",
-      "supportedBy": [
-        "DSC_DATA",
-        "DSC_TRANSACTIONS"
-      ],
-      "type": "ADA"
     }
   ],
   "types": [
@@ -503,18 +481,6 @@
       "curveType": "secp256k1",
       "style": "SINGLE",
       "type": "TVM"
-    },
-    {
-      "derivations": [
-        {
-          "coinType": 1815,
-          "descriptor": 0,
-          "purpose": 1852
-        }
-      ],
-      "curveType": "ed25519Cardano",
-      "style": "EXTENDED",
-      "type": "ADA"
     }
   ]
 }
