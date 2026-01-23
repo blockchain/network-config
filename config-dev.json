@@ -294,10 +294,7 @@
       "nodeUrls": [],
       "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/ton/info/logo.png",
       "shortName": "Ton",
-      "supportedBy": [
-        "DSC_DATA",
-        "DSC_TRANSACTIONS"
-      ],
+      "supportedBy": [],
       "type": "TON"
     },
     {
