@@ -438,7 +438,7 @@
           "purpose": 44
         }
       ],
-      "curveType": "secp256k1",
+      "curveType": "ed25519",
       "style": "SINGLE",
       "type": "TON"
     },
