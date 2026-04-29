@@ -255,7 +255,7 @@
     },
     {
       "coinApi": "sol",
-      "explorerUrl": "https://explorer.solana.com/tx",
+      "explorerUrl": "https://www.blockchain.com/explorer/transactions/sol",
       "tokenExplorerUrl": "https://explorer.solana.com/address",
       "hasUnverifiedTokens": true,
       "feeCurrencies": [
