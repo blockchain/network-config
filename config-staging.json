@@ -18,7 +18,7 @@
       "nodeUrls": [
         "https://api.blockchain.info/eth/nodes/rpc"
       ],
-      "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/ethereum/info/logo.png",
+      "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/ethereum.png",
       "shortName": "Ethereum",
       "supportedBy": [
         "DSC_ARTIFACTS",
@@ -201,7 +201,7 @@
       "nativeAsset": "BTC",
       "networkTicker": "BTC",
       "nodeUrls": [],
-      "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/bitcoin/info/logo.png",
+      "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/bitcoin.png",
       "shortName": "Bitcoin",
       "supportedBy": [
         "DSC_ARTIFACTS",
@@ -226,7 +226,7 @@
       "supportedBy": [
         "DSC_DATA"
       ],
-      "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/bitcoincash/info/logo.png",
+      "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/bitcoincash.png",
       "type": "BCH"
     },
     {
@@ -292,7 +292,7 @@
       "nativeAsset": "STX",
       "networkTicker": "STX",
       "nodeUrls": [],
-      "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/stacks/info/logo.png",
+      "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/stacks.png",
       "shortName": "Stacks",
       "supportedBy": [
         "DSC_DATA",
@@ -333,7 +333,7 @@
       "nativeAsset": "TON",
       "networkTicker": "TON",
       "nodeUrls": [],
-      "logoPngUrl": "https://raw.githubusercontent.com/blockchain/coin-definitions/master/extensions/blockchains/ton/info/logo.png",
+      "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/ton.png",
       "shortName": "Ton",
       "supportedBy": [
         "DSC_DATA",
