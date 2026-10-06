@@ -190,7 +190,7 @@
     },
     {
       "coinApi": "evm",
-      "explorerUrl": "https://robin.etherscan.io/tx",
+      "explorerUrl": "https://robin.etherscan.io/txs",
       "tokenExplorerUrl": "https://robin.etherscan.io/token",
       "hasUnverifiedTokens": false,
       "feeCurrencies": [
