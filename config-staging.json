@@ -203,9 +203,7 @@
       "name": "Robinhood Chain",
       "nativeAsset": "HOODETH",
       "networkTicker": "HOODETH",
-      "nodeUrls": [
-        "https://api.blockchain.info/hood/nodes/rpc/"
-      ],
+      "nodeUrls": [],
       "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/robinhoodchain.png",
       "shortName": "Robinhood",
       "supportedBy": [],
