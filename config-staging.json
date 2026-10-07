@@ -189,6 +189,27 @@
       "type": "EVM"
     },
     {
+      "coinApi": "evm",
+      "explorerUrl": "https://robin.etherscan.io/txs",
+      "tokenExplorerUrl": "https://robin.etherscan.io/token",
+      "hasUnverifiedTokens": false,
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {
+        "chainId": 4663
+      },
+      "memos": false,
+      "name": "Robinhood Chain",
+      "nativeAsset": "HOODETH",
+      "networkTicker": "HOODETH",
+      "nodeUrls": [],
+      "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/robinhoodchain.png",
+      "shortName": "Robinhood",
+      "supportedBy": [],
+      "type": "EVM"
+    },
+    {
       "coinApi": "btc",
       "explorerUrl": "https://www.blockchain.com/btc/tx",
       "hasUnverifiedTokens": false,
