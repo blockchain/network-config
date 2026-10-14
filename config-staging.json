@@ -206,7 +206,11 @@
       "nodeUrls": [],
       "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/robinhoodchain.png",
       "shortName": "Robinhood",
-      "supportedBy": [],
+      "supportedBy": [
+        "DSC_ARTIFACTS",
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
+      ],
       "type": "EVM"
     },
     {
