@@ -359,7 +359,10 @@
       "nodeUrls": [],
       "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/ton.png",
       "shortName": "Ton",
-      "supportedBy": [],
+      "supportedBy": [
+        "DSC_DATA",
+        "DSC_TRANSACTIONS"
+      ],
       "type": "TON"
     },
     {
