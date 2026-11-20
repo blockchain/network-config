@@ -16,6 +16,9 @@
             },
             "type": "array"
           },
+          "hasPrivacyLayer": {
+            "type": "boolean"
+          },
           "identifiers": {
             "type": "object"
           },
