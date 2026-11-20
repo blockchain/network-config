@@ -372,7 +372,7 @@
       "type": "ADA"
     },
     {
-      "coinApi": "zec",
+      "coinApi": "btc",
       "explorerUrl": "https://blockchair.com/zcash/transaction",
       "hasUnverifiedTokens": false,
       "hasPrivacyLayer": true,
