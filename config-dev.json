@@ -519,7 +519,7 @@
         }
       ],
       "curveType": "secp256k1",
-      "style": "SINGLE",
+      "style": "EXTENDED",
       "type": "ZEC"
     }
   ]
