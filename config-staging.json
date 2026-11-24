@@ -411,6 +411,25 @@
         "DSC_TRANSACTIONS"
       ],
       "type": "ADA"
+    },
+    {
+      "coinApi": "btc",
+      "explorerUrl": "https://blockchair.com/zcash/transaction",
+      "hasUnverifiedTokens": false,
+      "hasPrivacyLayer": true,
+      "feeCurrencies": [
+        "native"
+      ],
+      "identifiers": {},
+      "memos": false,
+      "name": "Zcash",
+      "nativeAsset": "ZEC",
+      "networkTicker": "ZEC",
+      "nodeUrls": [],
+      "logoPngUrl": "https://login.blockchain.com/static/asset/currency/coin/zcash.png",
+      "shortName": "Zcash",
+      "supportedBy": [],
+      "type": "ZEC"
     }
   ],
   "types": [
@@ -543,6 +562,18 @@
       "curveType": "ed25519Cardano",
       "style": "EXTENDED",
       "type": "ADA"
+    },
+    {
+      "derivations": [
+        {
+          "coinType": 133,
+          "descriptor": 0,
+          "purpose": 44
+        }
+      ],
+      "curveType": "secp256k1",
+      "style": "EXTENDED",
+      "type": "ZEC"
     }
   ]
 }
